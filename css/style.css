@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.promo {
+    height: 535px;
+    background: url('../img/bg/Layer\ 5.jpg') center center/cover no-repeat;
+}
+
+.promo .title {
+    color: white;
+    text-align: right;
+}
+
+.promo .promo_btn {
+    width: 313px;
+    height: 72px;
+    background-color: orange;
+}
